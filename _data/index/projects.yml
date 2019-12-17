@@ -2,9 +2,9 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Social Marketing
-  i18n: jalpc
+  i18n: Gangwon-Big-Data-Competiton
   gh_user: seungcho
-  repo: seungcho
+  repo: Gangwon-Big-Data-Competiton
   img: /static/assets/img/landing/소셜2.jpg
   desc: This project is my project. Big Data Social Marketing Hollys Coffee Project Proposal
 
