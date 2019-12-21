@@ -10,7 +10,7 @@
     detail: March. 2010 ~ February. 2013
     i18n: company_a_date
   job:
-    detail: Student
+    detail: High school student
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -25,7 +25,7 @@
     detail: March. 2014 ~ February. 2020
     i18n: company_b_date
   job:
-    detail: Student
+    detail: a university student
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -36,9 +36,9 @@
     detail: Social network major(Machine Learning, Deep Learning)
     i18n: company_b_desc
   date:
-    detail: March. 2020 
+    detail: March. 2020 ~ 
     i18n: company_b_date
   job:
-    detail: Student
+    detail: a master's student
     i18n: company_b_job
   icon: fa-plus-square
